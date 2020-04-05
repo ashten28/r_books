@@ -16,6 +16,7 @@
 11. [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
 12. [R packages](http://r-pkgs.had.co.nz/)
 13. [knitr](https://yihui.org/knitr/)
+14. [Big Data Analytics with R and Hadoop](http://barbra-coco.dyndns.org/student/hadoop/Big-Data-Analytics-with-R-and-Hadoop.pdf)
 
 ## Paid R books (recommended)
 1. [Discovering Statistics using R](https://books.google.com.my/books/about/Discovering_Statistics_Using_R.html?id=wd2K2zC3swIC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
