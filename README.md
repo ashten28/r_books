@@ -18,6 +18,9 @@
 13. [knitr](https://yihui.org/knitr/)
 14. [Big Data Analytics with R and Hadoop](http://barbra-coco.dyndns.org/student/hadoop/Big-Data-Analytics-with-R-and-Hadoop.pdf)
 15. [Introduction to Open Data Science](https://ohi-science.org/data-science-training/)
+15. [Statistical Inference via Data Science](https://moderndive.com/)
+16. [Data Wrangling](https://dcl-wrangle.stanford.edu/)
+17. [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/)
 
 ## Paid R books (recommended)
 1. [Discovering Statistics using R](https://books.google.com.my/books/about/Discovering_Statistics_Using_R.html?id=wd2K2zC3swIC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
