@@ -25,6 +25,7 @@
 19. [RMarkdown for Scientists](https://rmd4sci.njtierney.com/)
 20. [Supervised Machine Learning for Text Analysis in R](https://smltar.com/)
 21. [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/)
+22. [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 
 ## Paid R books (recommended)
 1. [Discovering Statistics using R](https://books.google.com.my/books/about/Discovering_Statistics_Using_R.html?id=wd2K2zC3swIC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
