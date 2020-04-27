@@ -27,7 +27,10 @@
 21. [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/)
 22. [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 23. [An Intro to Statiscal Learning](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
-24. [https://lgatto.github.io/IntroMachineLearningWithR/index.html](https://lgatto.github.io/IntroMachineLearningWithR/index.html)
+24. [Intro to Machine Learning with R](https://lgatto.github.io/IntroMachineLearningWithR/index.html)
+25. [A gRadual intRoduction to Shiny](https://laderast.github.io/gradual_shiny/)
+26. [Supplement to Shiny in Production](https://kellobri.github.io/shiny-prod-book/))
+27. [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/index.html)
 
 ## Paid R books (recommended)
 1. [Discovering Statistics using R](https://books.google.com.my/books/about/Discovering_Statistics_Using_R.html?id=wd2K2zC3swIC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
