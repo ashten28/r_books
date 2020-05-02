@@ -31,6 +31,11 @@
 25. [A gRadual intRoduction to Shiny](https://laderast.github.io/gradual_shiny/)
 26. [Supplement to Shiny in Production](https://kellobri.github.io/shiny-prod-book/))
 27. [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/index.html)
+28. [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
+29. [Geocomputation with R](https://geocompr.robinlovelace.net/)
+30. [Data Visualization, A practical introduction](https://socviz.co/index.html)
+31. [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/)
+32. [Text Mining with R](https://www.tidytextmining.com/)
 
 ## Paid R books (recommended)
 1. [Discovering Statistics using R](https://books.google.com.my/books/about/Discovering_Statistics_Using_R.html?id=wd2K2zC3swIC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
