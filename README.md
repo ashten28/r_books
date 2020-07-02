@@ -36,6 +36,9 @@
 30. [Data Visualization, A practical introduction](https://socviz.co/index.html)
 31. [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/)
 32. [Text Mining with R](https://www.tidytextmining.com/)
+33. [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
+34. [Outstanding User Interfaces with Shiny](https://divadnojnarg.github.io/outstanding-shiny-ui/)
+35. [Broadening Your Statistical Horizons](https://bookdown.org/roback/bookdown-bysh/)
 
 ## Paid R books (recommended)
 1. [Discovering Statistics using R](https://books.google.com.my/books/about/Discovering_Statistics_Using_R.html?id=wd2K2zC3swIC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
